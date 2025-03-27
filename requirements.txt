@@ -1,0 +1,10 @@
+jupyter
+notebook
+ipywidgets
+matplotlib
+numpy
+pandas
+torch
+transformers
+ollama
+requests 
