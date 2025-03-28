@@ -4,7 +4,7 @@
 ollama serve &
 
 # Wait for Ollama to start up
-sleep 5
+sleep 6
 
 # Pull a small model to have it ready
 ollama pull gemma3:1b &

@@ -1,0 +1,4 @@
+### Build With
+docker build -t conv-workshop .
+### Run with
+docker run -p 8888:8888 -p 11434:11434 conv-workshop
